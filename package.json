@@ -1,0 +1,24 @@
+{
+  "name": "steal-sourcemaps-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "rm -rf dist && node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-mujica/steal-sourcemaps-issue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m-mujica/steal-sourcemaps-issue/issues"
+  },
+  "homepage": "https://github.com/m-mujica/steal-sourcemaps-issue#readme",
+  "devDependencies": {
+    "steal": "^1.5.13",
+    "steal-tools": "^1.8.4"
+  }
+}
