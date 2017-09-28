@@ -19,6 +19,6 @@
   "homepage": "https://github.com/m-mujica/steal-sourcemaps-issue#readme",
   "devDependencies": {
     "steal": "^1.5.13",
-    "steal-tools": "^1.8.4"
+    "steal-tools": "stealjs/steal-tools#sourcemaps"
   }
 }
